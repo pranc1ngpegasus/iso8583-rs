@@ -1,0 +1,6 @@
+[package]
+name = "iso8583"
+edition.workspace = true
+version.workspace = true
+
+[dependencies]

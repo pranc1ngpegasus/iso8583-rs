@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "iso8583-rs"
+name = "iso8583"
 version = "0.0.0"

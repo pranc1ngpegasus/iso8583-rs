@@ -1,6 +1,9 @@
-[package]
-name = "iso8583-rs"
-version = "0.0.0"
-edition = "2024"
+[workspace]
+members = ["iso8583"]
+resolver = "3"
 
-[dependencies]
+[workspace.dependencies]
+
+[workspace.package]
+edition = "2024"
+version = "0.0.0"
